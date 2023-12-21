@@ -24,7 +24,7 @@ In this project,we will create a home lab environment using virtualization softw
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/shamalek/Home-lab-running-AD-adding-user-using-powershell/blob/main/images/Screenshot%20(157).png" height="80%" width="80%"/>
 <br />
 <br />
 Select the disk:  <br/>
