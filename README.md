@@ -15,14 +15,11 @@ In this project,we will create a home lab environment using virtualization softw
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b>.
-- <b>Server 2019</b>
+<ul> <li><b>Server 2019</b></li>
+<li><b>Windows 10</b</li></ul>
 
 
-
-<h2>Program walk-through:</h2>.
-<ul> <li>this is first</li>
-<li>thids is second </li></ul>
+<h2>Program walk-through:</h2>
 
 <p>
 Environment setup : <br/>
