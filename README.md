@@ -22,8 +22,9 @@ In this project,we will create a home lab environment using virtualization softw
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
+<p>
+Environment setup : <br/>
+
 https://github.com/shamalek/Home-lab-running-AD-adding-user-using-powershell/blob/main/images/Screenshot%20(157).png
 <br />
 <br />
