@@ -15,7 +15,9 @@ In this project,we will create a home lab environment using virtualization softw
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
+-Server 2019
+
 
 <h2>Program walk-through:</h2>
 
