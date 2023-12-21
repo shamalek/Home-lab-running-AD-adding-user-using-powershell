@@ -1,16 +1,17 @@
-<h1>Home Lab Running Acitve Directory and Adding user using Powershell</h1>
+<h1>Home Lab Setup with Active Directory and PowerShell User Management</h1>
 
 
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<h2>Project Overview</h2>
+In this project,we will create a home lab environment using virtualization software to set up a Windows Server running Active Directory. The goal is to simulate a small-scale network environment commonly found in businesses. Additionally, we will use PowerShell to automate the process of adding users to the Active Directory. 
 <br />
+
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle virtual box</b>
 
 <h2>Environments Used </h2>
 
